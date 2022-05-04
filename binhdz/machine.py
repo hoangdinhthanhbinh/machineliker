@@ -76,7 +76,7 @@ else:
     print("\033[1;36m[ ● ] Tool Miễn Phí Nhưng Key Mất Phí")
     print("\033[1;36m[ ● ] Vui Lòng Liên Hệ Zalo : 0869161198 Để Kích Hoạt Key!! ")
     time.sleep(1000)
-    exit()
+    quit()
 os.system("clear")
 logo()
 us=input(''' \033[1;37m➻\033[1;96m❥ Vui lòng viết thường
